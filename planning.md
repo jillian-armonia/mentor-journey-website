@@ -29,3 +29,58 @@ Page 4(Create Your Own LP)
 - 1 textarea
 - Appropriate labels for the above
 - 1 button
+
+CSS
+
+Color palette
+- edf2f4 (anti-flash white)
+- 22223b (spacecadet)
+- 218380 (teal)
+- fbb13c (hunyadi yellow)
+- 563635 (rose ebony)
+
+H2 #title header
+font-family: Lucida Calligraphy
+bg-color: rose ebony
+font-color: anti-flash white
+
+NAV
+bg-color: hunyadi yellow
+
+NAV links
+no underline
+hover-color: rose ebony
+hover-font-color: anti-flash white
+font-color: black or space cadet
+font-family: Lucida console
+justify-content: flex-end (float right)
+
+MAIN IMAGE
+height: 150px
+width: 300px
+align: center
+
+BODY
+bg-color: anti-flash white
+
+H1 header
+font-family: Lucida Sans
+bg-color: space cadet
+font-color: anti-flash white
+
+H3 headers
+font-family: Lucida Sans
+font-color: space cadet
+text-transform: underline
+
+P paragraphs
+font-family: Lucida Sans
+font-color: space cadet
+
+FOOTER
+bg-color: rose ebony
+font-color: hunyadi yellow
+font-family: Courier New
+
+MAIN
+text-align: center
