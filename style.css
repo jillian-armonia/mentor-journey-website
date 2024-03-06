@@ -59,7 +59,7 @@ main{
 .container, ol, ul{
     background-color: #fff;
     padding: 20px;
-    margin: 50px;
+    margin: 30px 50px;
 }
 
 h3{
@@ -93,4 +93,25 @@ li a{
 
 h2{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+fieldset{
+    background-color: #fff;
+    margin: 30px 50px;
+    padding: 20px;
+    border: 5px double #22223b;
+}
+
+input[type="text"], textarea{
+    display: block;
+}
+
+label{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #22223b;
+}
+
+div{
+    padding: 5px;
+    margin: 5px 0;
 }

@@ -30,6 +30,7 @@ Page 4(Create Your Own LP)
 - Appropriate labels for the above
 - 1 button
 
+
 CSS
 
 Color palette
@@ -84,3 +85,32 @@ font-family: Courier New
 
 MAIN
 text-align: center
+
+FIELDSET
+bg-color: white
+margin: 30px 50px if width 100%
+border: 10px space cadet solid
+padding: 10px
+
+LABEL
+display: block (?) i just need it to be not inline
+font-family: lucida sans
+color: space cadet
+
+TEXTAREA:
+html cols=35
+html rows=10
+**html placeholder (explanation of each input)
+
+BUTTON:
+bg-color: teal
+color: anti-flash white
+margin: auto (?) (or justify-self: center?)
+font-family: lucida sans
+text-transform: uppercase
+font-weight: 600
+border-radius: 5px
+
+Class for some fields (class="underline")
+[title, target class, target level, materials, problems, procedure, engage, study, activate]
+text-decoration: underline
