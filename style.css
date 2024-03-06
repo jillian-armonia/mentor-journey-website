@@ -56,10 +56,10 @@ main{
     justify-items: center;
 }
 
-.container{
+.container, ol, ul{
     background-color: #fff;
     padding: 20px;
-    margin: 20px;
+    margin: 50px;
 }
 
 h3{
@@ -83,4 +83,14 @@ footer{
 footer p{
     color: #fbb13c;
     font-family: 'Courier New', Courier, monospace;
+}
+
+li a{
+    color: #22223b;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 600;
+}
+
+h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
