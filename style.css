@@ -47,4 +47,40 @@ h1{
     color:#edf2f4;
     background-color: #218380;
     text-align: center;
+    margin-top: 0;
+    width: 100%;
+}
+
+main{
+    display: grid;
+    justify-items: center;
+}
+
+.container{
+    background-color: #fff;
+    padding: 20px;
+    margin: 20px;
+}
+
+h3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #22223b;
+    text-decoration: underline;
+}
+
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #22223b;
+}
+
+footer{
+    background-color: #563635;
+    padding: 5px;
+    position: relative;
+    bottom: 0;
+}
+
+footer p{
+    color: #fbb13c;
+    font-family: 'Courier New', Courier, monospace;
 }
