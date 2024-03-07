@@ -114,3 +114,20 @@ border-radius: 5px
 Class for some fields (class="underline")
 [title, target class, target level, materials, problems, procedure, engage, study, activate]
 text-decoration: underline
+
+IMAGE CONTAINER CLASS
+display: flex
+maybe flex-wrap: wrap
+justify-content: center
+align-items: flex-start
+align-content: flex-start
+
+IMAGE
+height: 200px
+width: 120px
+
+FIGCAPTION
+font-family: Lucida Sans
+color: anti-flash white
+bg-color: rose ebony
+text-align: center
