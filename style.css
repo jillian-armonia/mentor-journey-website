@@ -148,6 +148,7 @@ button:active{
 img{
     width: 120px;
     height: 200px;
+    border-radius: 5px;
 }
 
 figcaption{
@@ -155,6 +156,8 @@ figcaption{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: #edf2f4;
     background-color: #563635;
+    padding: 5px 10px;
+    width: 120px;
 }
 
 a:hover{
